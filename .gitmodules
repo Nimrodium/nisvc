@@ -1,0 +1,3 @@
+[submodule "libnisvc"]
+	path = libnisvc
+	url = https://github.com/nimrodium/libnisvc
